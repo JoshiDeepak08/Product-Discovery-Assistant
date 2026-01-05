@@ -1,6 +1,5 @@
 # **Product Discovery Assistant (AI-Powered Fashion Recommender)**
 
-**TL;DR:**
 A full-stack AI Product Discovery system that scrapes clothing products from Hunnit.com using ScraperAPI, stores them in PostgreSQL (Neon), indexes them in Qdrant, enriches them with a Neo4j Knowledge Graph, and serves intelligent outfit recommendations via a FastAPI backend and a modern React frontend.
 
 Prototype link: https://product-discovery-assistant-ochre.vercel.app/
